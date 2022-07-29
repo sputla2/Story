@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was a time to learn and grow and grow ladla  lovecoffeeeee 
+=======
+it was a time to learn and grow and grow ladla  hello me 
+>>>>>>> master
